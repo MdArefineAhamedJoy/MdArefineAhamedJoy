@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**MdArefineAhamedJoy/MdArefineAhamedJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, Md AREFINE AHAMED JOY
+#### Web Application Developer
+I am a self-driven person with a strong curiosity and passion for web development .
+I thrive in dynamic and collaborative environments , always eager to take on new challenges and solve
+complex problems . I can work very well with people and understand people and adapt to people’s
+environment .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: JavaScript / REACT / JS / HTML / CSS / node.js / express.js / mongodb
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
