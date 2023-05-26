@@ -7,7 +7,7 @@ I thrive in dynamic and collaborative environments , always eager to take on new
 complex problems . I can work very well with people and understand people and adapt to people’s
 environment .
 
-Skills: JavaScript / REACT / JS / HTML / CSS / node.js / express.js / mongodb
+Skills: JavaScript / REACT / HTML / CSS / node.js / express.js / mongodb
 
 - 🔭 I’m currently working on this page. 
 
