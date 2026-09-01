@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Passionate full-stack developer who loves building scalable web apps
+- 🚀 Full-stack developer who loves building scalable web apps
 - 🌱 Always learning and exploring new technologies
 - 💡 I enjoy turning ideas into real, functional products
 - 📍 Based in Bangladesh
