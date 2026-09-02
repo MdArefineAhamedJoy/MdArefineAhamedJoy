@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=200&section=header&text=Hi,%20I'm%20Joy%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Bangladesh%20🇧🇩&descSize=18&descAlignY=58&descColor=00D9FF)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=JavaScript+%7C+TypeScript+%7C+React;Next.js+%7C+Node.js+%7C+MongoDB;Building+clean+%26+scalable+web+apps+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+%7C+React;Next.js+%7C+Node.js+%7C+MongoDB;React+Native+%7C+Expo+%7C+Mobile+Apps;Building+clean+%26+scalable+web+apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,6 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Full-stack developer who loves building scalable web apps
+- 📱 Building cross-platform mobile apps with React Native & Expo
 - 🌱 Always learning and exploring new technologies
 - 💡 I enjoy turning ideas into real, functional products
 - 🌍 Available Worldwide
